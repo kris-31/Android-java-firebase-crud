@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "374788824597",
+    "firebase_url": "https://myfirebase-e32b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myfirebase-e32b0",
+    "storage_bucket": "myfirebase-e32b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374788824597:android:c253a769c01c50bf7cb81c",
+        "android_client_info": {
+          "package_name": "com.kris.myfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWeT8lCjT_Dtb6S5FwXqB65C_OTpyPPE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

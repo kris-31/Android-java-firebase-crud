@@ -1,0 +1,19 @@
+{
+  "sample": {
+    "-Mf2n31XGQWvrHLnB2": {
+      "marks": 92,
+      "name": "Jane Smith",
+      "regno": "100"
+    },
+    "-NnXxIq-Mq0UMd8XXD71": {
+      "marks": 50,
+      "name": "tom",
+      "regno": "101"
+    },
+    "-NnXxNMeVZuKbVrv-ZPM": {
+      "marks": 60,
+      "name": "jerry",
+      "regno": "102"
+    }
+  }
+}
